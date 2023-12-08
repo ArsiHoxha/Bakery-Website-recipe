@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Bakery-Website-recipe/static/css/main.48da27d4.css",
+    "main.js": "/Bakery-Website-recipe/static/js/main.96ab4ab3.js",
+    "static/js/787.72d906f8.chunk.js": "/Bakery-Website-recipe/static/js/787.72d906f8.chunk.js",
+    "index.html": "/Bakery-Website-recipe/index.html",
+    "main.48da27d4.css.map": "/Bakery-Website-recipe/static/css/main.48da27d4.css.map",
+    "main.96ab4ab3.js.map": "/Bakery-Website-recipe/static/js/main.96ab4ab3.js.map",
+    "787.72d906f8.chunk.js.map": "/Bakery-Website-recipe/static/js/787.72d906f8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48da27d4.css",
+    "static/js/main.96ab4ab3.js"
+  ]
+}
